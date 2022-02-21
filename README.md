@@ -1,1 +1,1 @@
-A simple Python program to learn Continuous Integration with CircleCI
+A Python Calculator Library to implement Continuous Integration with CircleCI
